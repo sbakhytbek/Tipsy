@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Tipsy
 //
-//  Created by Madik on 08.11.2022.
+//  Created by Bakhytbek Sanzhar on 08.11.2022.
 //
 
 import UIKit
